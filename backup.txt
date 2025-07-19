@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Servidores VPS e Hospedagem Web com Alta Performance</title>
   <meta name="description" content="Velocidade, estabilidade e suporte técnico real. Conheça nossa hospedagem VPS e WordPress com garantia e planos acessíveis.">
-  <link rel="canonical" href="https://seudominio.com/servidor-vps-web-vps123"/>
+  
   <style>
     body {
       margin: 0;
@@ -86,6 +86,8 @@
 <body>
 
 <header>
+  <a href="https://victorxx.github.io/VPSVENDA/contatoroberto.html">SEGURO E CONSÓRCIOS</a>
+  <a href="https://geocredibnkvitoria.com/">CRÉDITO PESSOAL</a>
   <h1>Hospedagem VPS de Alto Nível</h1>
   <p>Infraestrutura sólida, velocidade superior e suporte ágil</p>
 </header>
@@ -149,7 +151,7 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 - Todos os direitos reservados. Servidores Premium com suporte de verdade.</p>
+  <p>&copy;  - Todos os direitos reservados. Servidores Premium com suporte de verdade.</p>
 </footer>
 
 </body>
